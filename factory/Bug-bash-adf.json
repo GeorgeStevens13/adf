@@ -1,0 +1,9 @@
+{
+	"name": "Bug-bash-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca0a6dfc-593f-45eb-a522-55d74e39a422",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
